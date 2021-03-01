@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  min-height: 82vh;
+  background-image: url(../../images/abacus_2.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0 0 80px 0;
+}

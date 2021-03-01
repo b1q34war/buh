@@ -1,0 +1,24 @@
+.advantages__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 15px;
+  -webkit-box-shadow: 6px 6px 8px 1px rgba(34, 60, 80, 0.17);
+  -moz-box-shadow: 6px 6px 8px 1px rgba(34, 60, 80, 0.17);
+  box-shadow: 6px 6px 8px 1px rgba(34, 60, 80, 0.17);
+  transition: 0.5s;
+}
+
+.advantages__card:hover {
+  background-color: rgba(180, 180, 180, 0.178);
+  -webkit-box-shadow: 8px 8px 8px 4px rgba(75, 41, 2, 0.17);
+  -moz-box-shadow: 8px 8px 8px 4px rgba(75, 41, 2, 0.17);
+  box-shadow: 8px 8px 8px 4px rgba(75, 41, 2, 0.17);
+}
+
+.advantages__card:hover .advantages__card-title{
+  font-size: 50px;
+  background-color: #fe541e;
+  color: white;
+}

@@ -1,0 +1,13 @@
+.advantages__card-title {
+  display: flex;
+  font-size: 50px;
+  position: relative;
+  bottom: 50px;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  transition: 0.5s;
+}

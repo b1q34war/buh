@@ -1,0 +1,9 @@
+.section-title {
+  margin: auto;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0 0 70px 0;
+  border-top: 4px rgb(0, 0, 0) dotted;
+  padding: 35px 0 0 0;
+}

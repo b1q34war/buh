@@ -1,0 +1,10 @@
+.advantages__grid {
+  display: grid;
+  list-style: none;
+  grid-template-columns: repeat(4, 1fr);
+  grid-row: 1fr;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  column-gap: 30px;
+}
